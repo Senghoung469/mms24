@@ -7,7 +7,6 @@
         </div>
         <div class="col-span-3">
             <livewire:feature>
-            <h1 style="font-size: 100px">Hello</h1>
         </div>
     </div>
 @endsection
